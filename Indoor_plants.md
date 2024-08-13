@@ -1,6 +1,6 @@
 layout: page
 title: "Indoor Plants"
-permalink: https://liyanxie522.github.io/Liyanders-Botanica.github.io/Indoor_Plants/URL-PATH
+permalink: https://liyanxie522.github.io/Liyanders-Botanica.github.io/Indoor_Plants
 
 <!DOCTYPE html>
 <html lang="en">
