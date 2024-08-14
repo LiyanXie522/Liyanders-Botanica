@@ -21,6 +21,12 @@
             margin: 20px auto;
             padding: 0 20px;
         }
+        .images-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: flex-start;
+        }
         h1 {
             color: #333;
         }
@@ -38,7 +44,7 @@
             </nav>
     </header>
 <div class="container">        
-    <div class="images-container" style="display: flex; justify-content: space-around;">
+    <div class= "images-container">
         <figure>
             <img src="images/indoor_plants/Alocasia_regal_shields.jpeg" style="width:160px; height:160px;">
             <p>Alocasia (Regal shields)</p>
