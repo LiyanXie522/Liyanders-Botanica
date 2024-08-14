@@ -1,8 +1,3 @@
-layout: page
-title: "Garden Plants"
-permalink: https://liyanxie522.github.io/Liyanders-Botanica.github.io/Gargen_plants
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
