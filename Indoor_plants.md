@@ -73,7 +73,7 @@
             </ul>
             </figcaption>
         </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Bloodleaf.jpeg" style="width:160px; height:160px;">
             <p>Bloodleaf</p>
             <figcaption>
@@ -87,8 +87,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Chinese_money.jpeg" style="width:160px; height:160px;">
             <p>Chinese money plant</p>
             <figcaption>
@@ -102,8 +101,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Common_coleus.jpeg" style="width:160px; height:160px;">
             <p>Common coleus</p>
             <figcaption>
@@ -117,8 +115,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Corn.jpeg" style="width:160px; height:160px;">
             <p>Corn plant</p>
             <figcaption>
@@ -132,8 +129,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Fairy_castle.jpeg" style="width:160px; height:160px;">
             <p>Fairy castle</p>
             <figcaption>
@@ -147,8 +143,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/False_christmas.jpeg" style="width:160px; height:160px;">
             <p>False christmas</p>
             <figcaption>
@@ -162,8 +157,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Golden_barrel.jpeg" style="width:160px; height:160px;">
             <p>Golden barrel</p>
             <figcaption>
@@ -177,8 +171,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Golden_pothos.jpeg" style="width:160px; height:160px;">
             <p>Golden pothos</p>
             <figcaption>
@@ -192,8 +185,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Green_princess.jpeg" style="width:160px; height:160px;">
             <p>Green princess</p>
             <figcaption>
@@ -207,9 +199,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Ladyfinger.jpeg" style="width:160px; height:160px;">
             <p>Ladyfinger</p>
             <figcaption>
@@ -223,9 +213,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Polka_dot.jpeg" style="width:160px; height:160px;">
             <p>Polka dot plant</p>
             <figcaption>
@@ -239,9 +227,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Satin_pothos.jpeg" style="width:160px; height:160px;">
             <p>Satin pothos</p>
             <figcaption>
@@ -255,9 +241,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Spider.jpeg" style="width:160px; height:160px;">
             <p>Spider plant</p>
             <figcaption>
@@ -271,9 +255,7 @@
             </ul>
             </figcaption>
         </figure>
-                </figure>
-                </figure>
-                <figure>
+        <figure>
             <img src="images/indoor_plants/Variegated_snake.jpeg" style="width:160px; height:160px;">
             <p>Variegated snake plant</p>
             <figcaption>
