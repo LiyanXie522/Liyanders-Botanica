@@ -1,8 +1,3 @@
-layout: page
-title: "Indoor Plants"
-permalink: https://liyanxie522.github.io/Liyanders-Botanica.github.io/Indoor_plants
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
