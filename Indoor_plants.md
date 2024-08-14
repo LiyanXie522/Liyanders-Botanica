@@ -33,40 +33,38 @@
     <header>
         <h1>Indoor plants</h1>
     </header>
-
-<div class="container" style="display: flex; justify-content: space-around;">
-        <div>
-        <h2>Openning thoughts</h2>
+<div class="container">
+<h2>Openning thoughts</h2>
         <p>We have kept lots of indoor plants. Some of the plants are already with us or at least one of us for more than 5 years. We love our plants very much. Seeing their changes overtime become part of our joy in life.</p>
-<figure>
-    <img src="images/indoor_plants/Alocasia_regal_shields.jpeg" alt="Alocasia (Regal shields)" style="width:160px; height:160px;">
-    <figcaption>
-        Plant profile:
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
-            <li><span style="font-weight: bold;">Water:</span> Unsure</li>
-            <li><span style="font-weight: bold;">Soil:</span> Chalky, Loam</li>
-            <li><span style="font-weight: bold;">Fertilizer:</span> August</li>
-            <li><span style="font-weight: bold;">Pruning:</span> Spring, Winter</li>
-            <li><span style="font-weight: bold;">Difficulty:</span> Moderate</li>
-        </ul>
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="images/indoor_plants/Aloe_vera.jpeg" alt="Aloe vera" style="width:160px; height:160px;">
-    <figcaption>
-        Plant profile:
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
-            <li><span style="font-weight: bold;">Water:</span> Unsure</li>
-            <li><span style="font-weight: bold;">Soil:</span> Succulent soil</li>
-            <li><span style="font-weight: bold;">Fertilizer:</span> Spring</li>
-            <li><span style="font-weight: bold;">Pruning:</span> No need </li>
-            <li><span style="font-weight: bold;">Difficulty:</span> Easy</li>
-        </ul>
-    </figcaption>
-</figure>
+    <div class="images-container" style="display: flex; justify-content: space-around;">
+        <figure>
+            <img src="images/indoor_plants/Alocasia_regal_shields.jpeg" alt="Alocasia (Regal shields)" style="width:160px; height:160px;">
+            <figcaption>
+            Plant profile:
+            <ul style="list-style-type: none; padding-left: 0;">
+                <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
+                <li><span style="font-weight: bold;">Water:</span> Unsure</li>
+                <li><span style="font-weight: bold;">Soil:</span> Chalky, Loam</li>
+                <li><span style="font-weight: bold;">Fertilizer:</span> August</li>
+                <li><span style="font-weight: bold;">Pruning:</span> Spring, Winter</li>
+                <li><span style="font-weight: bold;">Difficulty:</span> Moderate</li>
+            </ul>
+            </figcaption>
+        </figure>
+        <figure>
+            <img src="images/indoor_plants/Aloe_vera.jpeg" alt="Aloe vera" style="width:160px; height:160px;">
+            <figcaption>
+            Plant profile:
+            <ul style="list-style-type: none; padding-left: 0;">
+                <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
+                <li><span style="font-weight: bold;">Water:</span> Unsure</li>
+                <li><span style="font-weight: bold;">Soil:</span> Succulent soil</li>
+                <li><span style="font-weight: bold;">Fertilizer:</span> Spring</li>
+                <li><span style="font-weight: bold;">Pruning:</span> No need </li>
+                <li><span style="font-weight: bold;">Difficulty:</span> Easy</li>
+            </ul>
+            </figcaption>
+        </figure>
     </div>
 </div>
 </body>
