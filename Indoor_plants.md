@@ -32,15 +32,14 @@
 <body>
     <header>
         <h1>Indoor plants</h1>
+        <p>We have lots of indoor plants. Some of the plants are already with us or at least one of us for more than 5 years! We love our plants very much. Seeing their changes overtime become part of joy in our life. </p>
     </header>
-<div class="container">
-<h2>Openning thoughts</h2>
-        <p>We have kept lots of indoor plants. Some of the plants are already with us or at least one of us for more than 5 years. We love our plants very much. Seeing their changes overtime become part of our joy in life.</p>
+<div class="container">        
     <div class="images-container" style="display: flex; justify-content: space-around;">
         <figure>
-            <img src="images/indoor_plants/Alocasia_regal_shields.jpeg" alt="Alocasia (Regal shields)" style="width:160px; height:160px;">
+            <img src="images/indoor_plants/Alocasia_regal_shields.jpeg" style="width:160px; height:160px;">
+            <p> "Alocasia (Regal shields)" </p>
             <figcaption>
-            Plant profile:
             <ul style="list-style-type: none; padding-left: 0;">
                 <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
                 <li><span style="font-weight: bold;">Water:</span> Unsure</li>
@@ -54,7 +53,6 @@
         <figure>
             <img src="images/indoor_plants/Aloe_vera.jpeg" alt="Aloe vera" style="width:160px; height:160px;">
             <figcaption>
-            Plant profile:
             <ul style="list-style-type: none; padding-left: 0;">
                 <li><span style="font-weight: bold;">Light:</span> Partial sun</li>
                 <li><span style="font-weight: bold;">Water:</span> Unsure</li>
